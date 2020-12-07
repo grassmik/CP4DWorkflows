@@ -1,7 +1,7 @@
-#Scenario
+# Scenario
 Creating a Change Request process from scratch (with / without javascript tasks)
 
-#Code disclaimer information
+# Code disclaimer information
 This document contains programming examples.
 
 IBM grants you a nonexclusive copyright license to use all programming code examples from which you can generate similar function tailored to your own specific needs.
