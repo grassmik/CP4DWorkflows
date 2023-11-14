@@ -1,6 +1,8 @@
 # CP4DWorkflows
 In Cloud Pak for Data, you can use Flowable to create process definitions to manage a specific business process. This repository will provide you with sample process defintions.
 
+[Developing Workflow Templates](developWorkflowTemplatesInstructions.md) describes how to setup the Flowable Modeler and how to transport process definitions between it and CPD.
+
 # Code disclaimer information
 This document contains programming examples.
 
